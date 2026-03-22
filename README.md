@@ -2,6 +2,8 @@
 
 _A simple dark Neovim colorscheme_.
 
+![Alt text](./assets/dummy_cpp_code.PNG)
+
 This colorscheme supports C, C++, Lua and Python.
 
 ## How to install
